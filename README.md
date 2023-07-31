@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, My name is Anhara  
+#### Full Stack Web Developper
+ A passionate web developer with one year of hands-on experience in the world of web development. Currently, I'm honing my skills and knowledge as an apprentice at a fantastic company Octo Technology. My journey in this field has been both exciting and rewarding, and I'm eager to share my creations and projects with the world through this repository.
 
-<!--
-**anharaAkter/anharaAkter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills:  REACT / JS / HTML / CSS / Next.Js / Java / Spring Boot /
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Octo Technology 
+- 🌱 I’m currently learning NextJs / TypeScript 
+- 👯 I’m looking to collaborate on GitHub, GitLab 
+- 💬 Ask me about Web development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/anharaAkter)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/anhara-akter-311672ab/)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/anharaAkter)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/anharaAkter)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/anharaAkter&show_icons=true)  
+
+
